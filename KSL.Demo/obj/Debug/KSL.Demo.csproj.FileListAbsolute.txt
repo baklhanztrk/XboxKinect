@@ -1,0 +1,182 @@
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\KSL.Demo.exe.config
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\KSL.Demo.exe
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\KSL.Demo.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\KSL.Gestures.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\KSL.Gestures.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.csprojResolveAssemblyReference.cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\MainWindow.baml
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\MainWindow.g.cs
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\App.g.cs
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.g.resources
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.csproj.GenerateResource.Cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.exe
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\KSL.Demo.exe
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\KSL.Demo.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\KSL.Gestures.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.csprojResolveAssemblyReference.cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\MainWindow.baml
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\MainWindow.g.cs
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\App.g.cs
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.Cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.exe
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.pdb
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.exe
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.pdb
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Gestures.dll
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Kinect.dll
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Speech.dll
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Kinect.xml
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\MainWindow.baml
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\MainWindow.g.cs
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\App.g.cs
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csproj.CopyComplete
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.exe
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.pdb
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.exe
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.pdb
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Gestures.dll
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Kinect.dll
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Speech.dll
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Kinect.xml
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\MainWindow.baml
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\MainWindow.g.cs
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\App.g.cs
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csproj.CopyComplete
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.exe
+C:\Users\burak\Desktop\bitirme\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.pdb
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.exe
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.pdb
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Gestures.dll
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.dll
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Speech.dll
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.xml
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\MainWindow.baml
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\MainWindow.g.cs
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\App.g.cs
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.CopyComplete
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.exe
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.pdb
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.exe
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.pdb
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Gestures.dll
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Speech.dll
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.xml
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csprojAssemblyReference.cache
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\MainWindow.baml
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\MainWindow.g.cs
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\App.g.cs
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.cache
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.CoreCompileInputs.cache
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.CopyComplete
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.exe
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.pdb
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.dll
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.exe
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.pdb
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Gestures.dll
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.dll
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Speech.dll
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.xml
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csprojAssemblyReference.cache
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\MainWindow.baml
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\MainWindow.g.cs
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\App.g.cs
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.cache
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.CoreCompileInputs.cache
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.CopyComplete
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.exe
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.pdb
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.exe
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.pdb
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Gestures.dll
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.dll
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Speech.dll
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.xml
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csprojAssemblyReference.cache
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\MainWindow.baml
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\MainWindow.g.cs
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\App.g.cs
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo_Content.g.cs
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.cache
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.CoreCompileInputs.cache
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.CopyComplete
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.exe
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.pdb
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.exe
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Demo.pdb
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Gestures.dll
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.dll
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Speech.dll
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\bin\Debug\Microsoft.Kinect.xml
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csprojAssemblyReference.cache
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\MainWindow.baml
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\MainWindow.g.cs
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\App.g.cs
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo_Content.g.cs
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.cache
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.CoreCompileInputs.cache
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.csproj.CopyComplete
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.exe
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Demo\obj\Debug\KSL.Demo.pdb

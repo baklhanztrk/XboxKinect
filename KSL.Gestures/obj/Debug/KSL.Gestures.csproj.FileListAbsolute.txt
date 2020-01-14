@@ -1,0 +1,61 @@
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\Gestures\bin\Debug\KSL.Gestures.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\Gestures\bin\Debug\KSL.Gestures.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\Gestures\obj\Debug\KSL.Gestures.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\Gestures\obj\Debug\KSL.Gestures.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Gestures\bin\Debug\KSL.Gestures.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Gestures\bin\Debug\KSL.Gestures.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Gestures\obj\Debug\KSL.Gestures.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Gestures\obj\Debug\KSL.Gestures.pdb
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Gestures\bin\Debug\KSL.Gestures.dll
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Gestures\bin\Debug\KSL.Gestures.pdb
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Gestures\bin\Debug\Microsoft.Kinect.dll
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Gestures\bin\Debug\Microsoft.Kinect.xml
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Gestures\obj\Debug\KSL.Gestures.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CopyComplete
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Gestures\obj\Debug\KSL.Gestures.dll
+C:\Users\burak\Desktop\kinect-sign-language-master\KSL.Gestures\obj\Debug\KSL.Gestures.pdb
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Gestures\bin\Debug\KSL.Gestures.dll
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Gestures\bin\Debug\KSL.Gestures.pdb
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Gestures\bin\Debug\Microsoft.Kinect.dll
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Gestures\bin\Debug\Microsoft.Kinect.xml
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CopyComplete
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.dll
+C:\Users\burak\source\repos\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.pdb
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\bin\Debug\KSL.Gestures.dll
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\bin\Debug\KSL.Gestures.pdb
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\bin\Debug\Microsoft.Kinect.xml
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csprojAssemblyReference.cache
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CoreCompileInputs.cache
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CopyComplete
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.dll
+G:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.pdb
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\bin\Debug\KSL.Gestures.dll
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\bin\Debug\KSL.Gestures.pdb
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\bin\Debug\Microsoft.Kinect.dll
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\bin\Debug\Microsoft.Kinect.xml
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csprojAssemblyReference.cache
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CoreCompileInputs.cache
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CopyComplete
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.dll
+F:\yedekpc2019\Yeni klasör\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.pdb
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Gestures\bin\Debug\KSL.Gestures.dll
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Gestures\bin\Debug\KSL.Gestures.pdb
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Gestures\bin\Debug\Microsoft.Kinect.dll
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Gestures\bin\Debug\Microsoft.Kinect.xml
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csprojAssemblyReference.cache
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CoreCompileInputs.cache
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CopyComplete
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.dll
+C:\Users\baki3_000\Desktop\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.pdb
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Gestures\bin\Debug\KSL.Gestures.dll
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Gestures\bin\Debug\KSL.Gestures.pdb
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Gestures\bin\Debug\Microsoft.Kinect.dll
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Gestures\bin\Debug\Microsoft.Kinect.xml
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csprojAssemblyReference.cache
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CoreCompileInputs.cache
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.csproj.CopyComplete
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.dll
+C:\Users\baki3_000\Desktop\Karışık\Bitirme\bitirme ceviri\KSL.Gestures\obj\Debug\KSL.Gestures.pdb
